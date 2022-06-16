@@ -7,7 +7,7 @@ a local API and building out the frontend for our app, FlataBeer.
 
 Use this gif as an example of how the app should work.
 
-![demo gif](https://curriculum-content.s3.amazonaws.com/phase-1/phase-1-code-challenge-flatabeer/demo.gif)
+![demo gif](https://github.com/Davincii254/Flatabeer/blob/4d0fa4b71ca0d61f7f5228ef61020d45c48616a2/assets/demo.gif)
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 
@@ -16,7 +16,7 @@ Use this gif as an example of how the app should work.
 Run this command to get the backend started:
 
 ```console
-$ json-server --watch db.json
+$ npx json-server --watch db.json
 ```
 
 Test your server by visiting this route in the browser:
