@@ -7,7 +7,7 @@ a local API and building out the frontend for our app, FlataBeer.
 
 Use this gif as an example of how the app should work.
 
-![demo gif](https://github.com/Davincii254/Flatabeer/tree/master/assets/demo.gif)
+![demo gif](https://github.com/Davincii254/Flatabeer/blob/4d0fa4b71ca0d61f7f5228ef61020d45c48616a2/assets/demo.gif)
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 
