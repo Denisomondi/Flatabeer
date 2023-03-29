@@ -142,9 +142,7 @@ function menuEventListener(item) {
 
 //Reusable function to extract a unique ID to attach to each beer menu list item
 function createUniqueId (item) {
-    //Removing spaces and colons from the name to create a unique identifier
     const removeSpace = item.name.replace(/ |:/g, '');
-    //Using the changed name to take the first four characters plus the ID (as a plain numeric ID wasn't working)
     const makeId = removeSpace.substring(0,4)+item.id;
     return makeId;
 }
